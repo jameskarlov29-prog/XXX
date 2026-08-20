@@ -1,5 +1,4 @@
-﻿
-# ========================
+﻿# ========================
 # XXX install_settings.ps1
 # Standalone - Keyauth + Optimization
 # ========================
